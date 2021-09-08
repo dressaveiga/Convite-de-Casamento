@@ -1,0 +1,87 @@
+<DOCTYPE html>
+    <head>
+        <meta charset = "UTF - 8">
+        <title> Convite de Casamento </title>
+
+        <style>
+            body {
+                background-color: rgb(80, 78, 78);
+                font-style: italic;
+                color: khaki;
+                font-size: 20; 
+                border-width: 10;
+                border-style: solid;
+                border-color: rgb(0, 0, 0);
+                
+            }
+
+            h2 {
+                color: khaki;
+            }
+
+           
+
+
+            p {
+                text-align: justify;
+            }
+        </style>
+
+
+
+    </head>
+    <body>
+
+            <h2> Convite de Casamento </h2>
+            A gente morou e cresceu na mesma rua <br>
+            Como se fosse o sol e a lua dividindo o mesmo céu <br>
+            Eu a vi desabrochar, ser desejada <br>
+            Uma joia cobiçada, o mais lindo dos troféus <br> <br>
+
+            Eu fui seu guardião, eu fui seu anjo amigo <br>
+            Mas não sabia que comigo por ela carregava uma paixão <br>
+            Eu a vi se aconchegar em outros braços <br>
+            E saí contando os passos, me sentindo tão sozinho <br> <br>
+
+            No corpo o sabor amargo do ciúme <br>
+            A gente quando não se assume <br>
+            Fica chorando sem carinho <br> <br>
+
+            O tempo passou e eu sofri calado <br>
+            Não deu pra tirar ela do pensamento <br>
+            Eu ia dizer que estava apaixonado <br>
+            Recebi o convite do seu casamento <br> 
+            Com letras douradas num papel bonito <br>
+            Chorei de emoção quando acabei de ler <br>
+            Num cantinho rabiscado no verso <br>
+            Ela disse: "Meu amor eu confesso <br>
+            Estou casando mas o grande amor da minha vida é você" <br><br>
+
+           <center>
+            <img src="Coração.png" width="300">
+
+           </center>
+
+            <div style = "text-align: right;"> 
+
+            Eu a vi se aconchegar em outros braços <br>
+            E saí contando os passos, me sentindo tão sozinho <br> <br>
+
+            No corpo o sabor amargo do ciúme <br>
+            A gente quando não se assume <br> 
+            Fica chorando sem carinho <br> <br>
+
+            O tempo passou e eu sofri calado <br>
+            Não deu pra tirar ela do pensamento <br>
+            Eu ia dizer que estava apaixonado <br>
+            Recebi o convite do seu casamento <br>
+
+            Com letras douradas num papel bonito <br>
+            Chorei de emoção quando acabei de ler <br>
+            Num cantinho rabiscado no verso <br> 
+            Ela disse: "Meu amor eu confesso <br>
+            Estou casando mas o grande amor da minha vida é você" <br> <br>
+
+            </div>
+
+        </p>
